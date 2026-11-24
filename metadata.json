@@ -1,0 +1,6 @@
+{
+  "name": "2gether",
+  "description": "Samarbets- och projektplattform för 2gether med dynamiskt backend-API, beständig databaslagring och live-status för GitHub och Vercel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
